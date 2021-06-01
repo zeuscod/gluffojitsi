@@ -20,7 +20,7 @@ function BindEvent() {
 }
 
 function StartMeeting(roomName, dispNme) {
-    const domain = 'meet.jit.si';
+    const domain = 'zeuscod.github.io';
 
     //var roomName = 'newRoome_' + (new Date()).getTime();
 

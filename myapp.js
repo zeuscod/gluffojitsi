@@ -1,7 +1,7 @@
 var apiObj = null;
 
 function StartMeeting() {
-    const domain = 'zeuscod.github.io';
+    const domain = '8x8.vc';
     const options = {
         roomName: 'JitsiMeetAPIExample',
         width: '100%',
